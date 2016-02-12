@@ -1,0 +1,35 @@
+body {
+	background: #0C0C0C;
+	
+	}
+
+
+*{
+	margin: 8px;
+	bottom: 1px;
+	background: #000;
+	color: #010;
+	z-index: ;
+	y-index: ;
+	width: ;
+	quotes: ;
+	empty-cells: ;
+	right: ;
+	font: ;
+	height: ;
+	padding: ;
+	outline: ;
+	left: ;
+	top: ;
+	display: block;
+	visibility: hidden;
+	caption-side: ;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+}
